@@ -1,0 +1,25 @@
+<!DOCTYPE>             <!--Indica la versión de HTML utilizada en el documento. -->
+<html> </html>         <!--Define el inicio y el fin del documento HTML. --> 
+<head> </head>         <!--Contiene información sobre el documento, como metadatos, enlaces a scripts y estilos, entre otros. -->
+<title> </title>       <!--Define el título del documento que aparece en la barra del navegador. --> 
+<body>  </body>        <!--Contiene todo el contenido visible del documento. -->
+<h1> </h1> <h6> </h6>  <!--Define encabezados de diferentes niveles. --> 
+<p> </p>               <!-- Crea un párrafo de texto.--> 
+<br> </br>             <!--Indica un salto de línea. --> 
+<hr> </hr>             <!--Crea una línea horizontal de separación. --> 
+<a> </a>               <!--Crea un hipervínculo a otra página. -->
+<img> </ing>          <!--Inserta una imagen en la página. --> 
+<ul> </ul>            <!--rea una lista desordenada. -->C
+<ol> </ol>            <!--Crea una lista ordenada. -->
+<li> </li>            <!--Define un elemento de lista. --> 
+<table> </table>       <!--Crea una tabla. -->
+<tr> </tr>            <!--Define una fila en una tabla. -->
+<th> </th>            <!-- Define una celda de encabezado en una tabla.-->
+<td> </td>            <!-- Define una celda en una tabla.-->
+<form> </form>         <!--Crea un formulario para la entrada de datos. -->
+<input> </input>       <!--Define un campo de entrada en un formulario. -->
+<textarea> </textarea>    <!--Crea un área de texto en un formulario. --> 
+<select> </select>       <!--Crea un menú desplegable en un formulario. -->
+<button> </button>      <!-- Crea un botón en un formulario. -->
+<script> </script>      <!--Enlaza archivos JavaScript externos o incluye bloques de código JavaScript en las páginas. -->
+<style> </style>   <!--Se pueden especificar reglas de estilo que afectan la presentación del contenido-->
