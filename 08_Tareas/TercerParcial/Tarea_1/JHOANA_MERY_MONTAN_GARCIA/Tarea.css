@@ -1,0 +1,43 @@
+section {
+    width: 300px;
+    height: 300px;
+    border: 5px solid;
+    position: absolute;
+}
+
+div {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+.top-left {
+    top: 0;
+    left: 0;
+    width: 50px; 
+    height: 50px;
+    background-color: rgb(236, 81, 166); 
+}
+
+.top-right {
+    top: 0;
+    right: 0;
+    background-color: rgb(226, 123, 166); 
+}
+
+.bottom-left {
+    bottom: 0;
+    left: 0;
+    background-color: rgb(133, 29, 107); 
+}
+.bottom-right {
+    bottom: 0;
+    right: 0;
+    background-color: rgb(207, 150, 193); 
+}
+
+.center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -50%);
+    background-color: rgb(99, 18, 72); }
